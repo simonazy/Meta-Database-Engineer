@@ -30,4 +30,10 @@ Learning Objectives
 - Differentiate between types of database schema.
 - Define different types of keys in a database.
 - Maintain data integrity and relationships through the use of keys.
-- Define relationships between entities in a database.  
+- Define relationships between entities in a database.
+
+## Module 5 
+
+Assignment
+
+![image](https://github.com/user-attachments/assets/b6f95065-c413-416b-85a3-08e66ebb316f)
